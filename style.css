@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+ul, ol, dl {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+li {
+    margin: 8px;
+}
+
+dt {
+    font-weight: bold;
+    color: darkblue;
+    margin-top: 10px;
+}
+
+dd {
+    margin-bottom: 10px;
+}
